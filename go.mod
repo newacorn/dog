@@ -1,3 +1,4 @@
+// Deprecated: use github.com/newacorn/dog/v2 instead.
 module github.com/newacorn/dog
 
 go 1.20
